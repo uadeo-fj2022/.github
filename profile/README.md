@@ -4,7 +4,7 @@
 
 ### Propietario de organización
 - Crear la organización
-- Invitar a 3 compañeros para asignar roles de lector, organizador y programador
+- Invitar a 3 compañeros
 - Invitar al profesor @bidkar y otorgar permisos de administrador
 - Crear proyecto a nivel de organización donde se incluyan las etapas que ya manejan como parte del desarrollo de una solución para una aplicación web y sus respectivas actividades:
   - Análisis
@@ -15,6 +15,7 @@
 
 ### Organizador
 - Crear repositorio para la etapa de desarrollo
+- Agregar a compañeros al repositorio y asignar roles de lector y programador
 - Vincular el repositorio al proyecto de nivel de organización donde se describan por medio de issues las actividades que se deben realizar para cumplir los objetivos del desarrollo:
   - Debe tener al menos 5 issues
   - Crear un milestone para incluir al menos 3 issues
