@@ -12,10 +12,10 @@
   - Desarrollo (las actividades de esta etapa las debe realizar el organizador)
   - Pruebas
   - Implementación
+- Crear repositorio para la etapa de desarrollo
+  - Agregar a los 3 compañeros al repositorio y asignar roles de organizador(Triage), lector(Read) y programador(Write)
 
 ### Organizador
-- Crear repositorio para la etapa de desarrollo
-- Agregar a compañeros al repositorio y asignar roles de lector y programador
 - Vincular el repositorio al proyecto de nivel de organización donde se describan por medio de issues las actividades que se deben realizar para cumplir los objetivos del desarrollo:
   - Debe tener al menos 5 issues
   - Crear un milestone para incluir al menos 3 issues
